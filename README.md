@@ -35,7 +35,7 @@ The program uses a menu-driven approach. Users can select options from the menu 
 ## Team Members
 - Abida yeasmin Asifa (ID: 20255103182)
 - Sanjidah Afrin (ID: 20255103185)
-- Humayra Hossain Jeba (ID: 20255103166)
+- Humayra Hossan Jeba (ID: 20255103166)
 
 ## Conclusion
 This project shows how multiple data structures can be combined to build an efficient student management system. It also demonstrates basic CRUD operations and improves understanding of memory management and data handling in C.
