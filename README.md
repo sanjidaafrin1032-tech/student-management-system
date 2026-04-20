@@ -34,7 +34,7 @@ The program uses a menu-driven approach. Users can select options from the menu 
 
 ## Team Members
 - Abida yeasmin Asifa (ID: 20255103182)
-- Sanjidah Afrin (ID: 20255103185)
+- Sanjidah Afrin      (ID: 20255103185)
 - Humayra Hossan Jeba (ID: 20255103166)
 
 ## Conclusion
